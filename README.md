@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Perl related to string interpolation within double-quoted strings. The issue stems from Perl's handling of escape sequences and embedded quotes within strings that share similar quote characters.  The provided files illustrate both the incorrect and corrected approach to handling embedded quotes in strings to avoid potential errors.
